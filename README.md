@@ -33,4 +33,3 @@ class FrenchFries:
 # Example usage
 recipe = FrenchFries()
 recipe.display_recipe()
-qwas
